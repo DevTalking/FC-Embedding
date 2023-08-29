@@ -1,0 +1,3 @@
+[console_scripts]
+towhee = towhee.command.cmdline:main
+triton_builder = towhee.serve.triton.pipeline_builder:main

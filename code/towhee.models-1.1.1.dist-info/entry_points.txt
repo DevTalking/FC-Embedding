@@ -1,0 +1,2 @@
+[console_scripts]
+towhee = towhee.command.cmdline:main
